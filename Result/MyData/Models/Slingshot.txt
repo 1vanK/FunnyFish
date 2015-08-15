@@ -1,0 +1,3 @@
+Materials/SlingshotWood.xml
+Materials/SlingshotRubber.xml
+Materials/SlingshotMetal.xml
